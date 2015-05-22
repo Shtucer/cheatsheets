@@ -333,7 +333,7 @@ add config file for jslint: ~/.jslint
 ## numbers
 
     <C-A>,<C-X>         -- increment,decrement number under cursor
-    <C-R>=4*5           -- insert 25 into text (mini-calculator)
+    <C-R>=4*5           -- insert 20 into text (mini-calculator)
 
 ## movement
 
